@@ -16,4 +16,3 @@ public interface CourseDAO {
     void deleteCourse(UUID id);
 }
  
-/* *Пояснення:* Визначає основні методи для роботи з курсами у базі.

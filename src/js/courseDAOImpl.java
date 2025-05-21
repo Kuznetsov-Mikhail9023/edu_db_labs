@@ -142,4 +142,3 @@ public class CourseDAOImpl implements CourseDAO {
     }
 }
 
-/* *Пояснення:* Реалізує всі CRUD операції, перетворюючи UUID в байти і назад, щоб зберігати їх компактно у базі.
